@@ -2,7 +2,7 @@
     position: relative;
 }
 
-.div1 {
+.div-one {
     background-color: green;
     height: 200px;
     width: 200px;
@@ -12,7 +12,7 @@
     z-index: 1;
 
 }
-.div2 {
+.div-two {
     background-color: blue;
     height: 200px;
     width: 200px;
@@ -21,7 +21,7 @@
     top: 40%;
     z-index: 2;
 }
-.div3 {
+.div-three {
     background-color: crimson;
     height: 200px;
     width: 200px;
